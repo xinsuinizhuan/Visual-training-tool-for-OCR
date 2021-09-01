@@ -7,7 +7,7 @@ pytorch>=1.8.0
 ## 简介
 OCR模型参考自paddleocr
 
-界面框架采用ExDUIR的python接口 https://gitee.com/william_lzw/ExDUIR 或者 https://github.com/laizewei/ExDUIR
+界面框架采用ExDUIR的python接口 https://gitee.com/william_lzw/ExDUIR 或者 https://github.com/williamlzw/ExDUIR
 
 ## 使用方法
 运行visual_tools.py方法
